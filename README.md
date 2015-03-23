@@ -1,1 +1,1 @@
-# hubot-gcal-notifier
+# hubot-gcal-reminder
